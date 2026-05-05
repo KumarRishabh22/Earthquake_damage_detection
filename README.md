@@ -223,18 +223,4 @@ const handleNewAction = () => {
 - [ ] User authentication
 - [ ] Save to database
 
-## License
 
-MIT License
-
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review browser console for errors
-3. Verify backend API is running
-4. Check network tab for API requests
-
----
-
-**Built with ❤️ using React and FastAPI**
