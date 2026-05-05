@@ -6,6 +6,15 @@ node_modules/
 # Python virtual environment
 .venv/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (too large for GitHub)
+model/model.h5
+model/model.keras
+
 # Testing
 /coverage
 
