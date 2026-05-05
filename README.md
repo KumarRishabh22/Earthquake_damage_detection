@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏘️ Earthquake Damage Detection - Frontend
 
 A modern React-based web application for analyzing structural damage in earthquake-affected areas using AI/ML predictions from a FastAPI backend.
